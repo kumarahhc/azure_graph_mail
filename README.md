@@ -30,7 +30,7 @@ Before using this project, you must configure an app in Microsoft Azure Portal:
 5. Add API permissions:  Mail.Send (Application permission)
 
 ### 📂 Project Structure
-.
+
 ├── graphI3cMailer.php   # Reusable mailer class
 ├── sendMail.php        # Example script
 |── phpMailSend.php        # Example script
