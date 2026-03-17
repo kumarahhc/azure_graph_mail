@@ -32,5 +32,7 @@ Before using this project, you must configure an app in Microsoft Azure Portal:
 ### 📂 Project Structure
 
 ├── graphI3cMailer.php   # Reusable mailer class
+
 ├── sendMail.php        # Example script
+
 |── phpMailSend.php        # Example script
